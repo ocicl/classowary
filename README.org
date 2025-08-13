@@ -4,6 +4,6 @@ A Common Lisp implementation of the Cassowary constraint solving toolkit.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/shinmera/classowary.git |
-| commit  | a3bd44f                                        |
+| commit  | f637e8b                                        |
 | systems | classowary                                     |
 |---------+------------------------------------------------|
