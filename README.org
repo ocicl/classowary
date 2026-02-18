@@ -3,7 +3,7 @@
 A Common Lisp implementation of the Cassowary constraint solving toolkit.
 
 |---------+------------------------------------------------|
-| source  | git:https://github.com/shinmera/classowary.git |
-| commit  | f637e8b                                        |
+| source  | git:https://codeberg.org/shinmera/classowary.git |
+| commit  | 0000000                                        |
 | systems | classowary                                     |
 |---------+------------------------------------------------|
